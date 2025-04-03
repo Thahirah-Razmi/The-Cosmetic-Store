@@ -1,8 +1,5 @@
 # Cosmetic Store Management System  
-📌 **OOP-Based Stock Automation for "The Cosmetic Store"**  
-
-*(Optional: Add a demo screenshot here)*  
-![Demo](demo.png)  
+📌 **OOP-Based Stock Automation for "The Cosmetic Store"**   
 
 ## 🚀 Project Overview  
 An **Object-Oriented Programming (OOP)** system designed to automate inventory management for *"The Cosmetic Store"*, which sells products like shampoos, body lotions, and face washes across categories.  
