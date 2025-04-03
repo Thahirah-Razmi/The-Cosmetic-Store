@@ -18,8 +18,8 @@ An **Object-Oriented Programming (OOP)** system designed to automate inventory m
 ## 🛠️ Technical Details  
 - **OOP Design**: Classes for `Product`, `User`, `Inventory`.  
 - **User Hierarchy**: Inheritance-based roles (Manager > Cashier).  
-- **Data Storage**: JSON/CSV files (or SQL database).  
-- **Language**: Python/Java/C++ *(specify yours)*.  
+- **Data Storage**: SQL database.  
+- **Language**: Java.  
 
 ---
 
