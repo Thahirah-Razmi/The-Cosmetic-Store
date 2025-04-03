@@ -1,23 +1,28 @@
-Cosmetic Store Management System
-OOP-Based Stock Automation for "The Cosmetic Store"
+# Cosmetic Store Management System  
+📌 **OOP-Based Stock Automation for "The Cosmetic Store"**  
 
-📌 Project Overview
-This system is designed to automate stock management for "The Cosmetic Store", which offers a wide range of products (e.g., Shampoos, Body Lotions, Face Wash) across different categories and price ranges. Developed using Object-Oriented Programming (OOP) concepts, it streamlines inventory tracking, user access control, and product categorization.
+*(Optional: Add a demo screenshot here)*  
+![Demo](demo.png)  
 
-🎯 Key Features
-👩💼 Cashier Access
-View all product details (name, price, category, stock).
-Search stock details by product name, category, or price range.
+## 🚀 Project Overview  
+An **Object-Oriented Programming (OOP)** system designed to automate inventory management for *"The Cosmetic Store"*, which sells products like shampoos, body lotions, and face washes across categories.  
 
-👨💼 Manager Access (Includes Cashier Functions + Advanced Controls)
-User Management:
-Create accounts with role-based access (e.g., Cashier, Manager).
-Inventory Management:
-Add/update products (name, category, price, stock).
-Categorize products (e.g., Haircare, Skincare).
+### ✨ Key Features  
+#### 👩💼 Cashier Access  
+- View all product details (name, price, category, stock).  
+- Search stock by **name**, **category**, or **price range**.  
 
-🛠️ Technical Implementation
-OOP Principles: Classes for Product, User, Inventory, etc.
-User Roles: Hierarchical access control (inheritance-based).
-Search Functionality: Methods to filter products by attributes.
-Data Persistence: File handling (or database integration) for stock records.
+#### 👨💼 Manager Access *(Extends Cashier Functions)*  
+- **User Management**: Create role-based accounts (e.g., Cashier/Manager).  
+- **Inventory Control**: Add/update products and categories.  
+
+---
+
+## 🛠️ Technical Details  
+- **OOP Design**: Classes for `Product`, `User`, `Inventory`.  
+- **User Hierarchy**: Inheritance-based roles (Manager > Cashier).  
+- **Data Storage**: JSON/CSV files (or SQL database).  
+- **Language**: Python/Java/C++ *(specify yours)*.  
+
+---
+
