@@ -24,7 +24,7 @@ A robust **Object-Oriented Programming (OOP)** system designed to automate inven
 ---
 
 ## 📸 Visual Previews  
-**The Cosmetic Store's System UI**  
+### The Cosmetic Store's System UI
 
 1. **Login Page**
 
