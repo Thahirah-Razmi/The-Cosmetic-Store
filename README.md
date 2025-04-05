@@ -62,3 +62,6 @@ A robust **Object-Oriented Programming (OOP)** system designed to automate inven
 
 ![image](https://github.com/user-attachments/assets/2561641c-9fa7-42f8-9672-c97bd77bb6a9)
 
+## Author
+
+👩‍💻 Fathima Thahirah Razmi ()
