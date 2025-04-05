@@ -23,3 +23,4 @@ A robust **Object-Oriented Programming (OOP)** system designed to automate inven
 
 ---
 
+## Visual Previews
