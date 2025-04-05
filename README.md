@@ -30,27 +30,35 @@ A robust **Object-Oriented Programming (OOP)** system designed to automate inven
 
 ![image](https://github.com/user-attachments/assets/4b8ec338-9e72-41f1-a51c-9e1b288c13a9)
 
-3. **Cashier Dashboard Page**
+2. **Cashier Dashboard Page**
+
 ![image](https://github.com/user-attachments/assets/5fe74bf3-9f59-469f-936b-aa74d69fb2c5)
 
-4. **Manager Dashboard Page**
+3. **Manager Dashboard Page**
+
 ![image](https://github.com/user-attachments/assets/73180601-51ca-4890-9680-3dd2f1254b10)
 
-5. **View Product Details Page**
+4. **View Product Details Page**
+
 ![image](https://github.com/user-attachments/assets/7fef9762-f6cb-4aaa-9c33-61f6d35abc27)
 
-6. **Search Stock Details Page**
+5. **Search Stock Details Page**
+
 ![image](https://github.com/user-attachments/assets/6c3c2970-d596-4eb3-ac9b-976ba7a624dd)
 
-7. **Search Product Details Page**
+6. **Search Product Details Page**
+
 ![image](https://github.com/user-attachments/assets/146130d4-0978-4f6c-b9fa-f1b5c04882c9)
 
-8. **Manage Account Page**
+7. **Manage Account Page**
+
 ![image](https://github.com/user-attachments/assets/1f47ea5f-040f-47f3-9921-a30dbfed3c04)
 
-9. **Manage Category Page**
+8. **Manage Category Page**
+
 ![image](https://github.com/user-attachments/assets/c45f391b-c707-4dd4-97b1-3aa161bace2f)
 
-10. **Manage Product Page**
+9. **Manage Product Page**
+
 ![image](https://github.com/user-attachments/assets/2561641c-9fa7-42f8-9672-c97bd77bb6a9)
 
