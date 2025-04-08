@@ -20,6 +20,7 @@ A robust **Object-Oriented Programming (OOP)** system designed to automate inven
 - **User Hierarchy**: Inheritance-based roles (Manager > Cashier).  
 - **Data Storage**: SQL database.  
 - **Language**: Java.  
+- **Tools**: Netbeans, MySQL
 
 ---
 
